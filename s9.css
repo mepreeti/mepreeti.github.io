@@ -1,0 +1,43 @@
+html{
+    background-color: #5DA3FA;
+}
+
+.second{
+/* text-align: center; */
+border-style: outset;
+background-color:white; 
+display: inline-block;
+width: 85%; 
+
+} 
+.first{
+    margin: auto;
+    padding-top: 13%;
+    width: 17%;
+}
+ .photo{
+    /* clip-path: circle(50% at 50% 0); */
+     border-radius:0 0 35px 35px ;
+     bg
+  
+
+ }
+ .button{
+     background-color: #b342f5;
+     outline: none;
+     position: relative;
+     left:70px;
+ }
+ .fa{
+     margin-top: 15px;
+     max-width:100%;
+     height:auto;
+     position: relative;
+     left: 80px;
+ }
+ .pclass{
+     margin-left: 2px;
+ }
+ .hclass{
+     text-align: center;
+ }

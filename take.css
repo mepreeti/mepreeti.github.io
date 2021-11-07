@@ -1,0 +1,27 @@
+nav{
+    width:95%; height: 20vh;
+    display:flex; justify-content: space-between;
+    align-items: center;
+}
+nav .second{
+    width: 30%;
+    display: flex; justify-content: space-between;
+}
+.second a{
+   
+    border:none;
+    font-weight: bold;
+    border-radius: 12%;
+    padding: 15px;
+    text-align: center;
+}
+.second a:hover{
+    color:black;
+    border:none;
+    font-weight: bold;
+    border-radius: 12%;
+    background:#f382ed;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,0.2);
+    padding: 15px;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.b1f4a33bbc010aa5e44a83f69375b5d4?rik=zXK7vp6RaP8ZxA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbebYih2.jpg&ehk=kOfN23KHSgV8PELgLvPuSPpn1NjUZHTAn3Idh7msu54%3d&risl=&pid=ImgRaw);
+}
+.container{
+
+    padding-left: 35%;
+    padding-right: 35%;
+    background: none;
+  
+    
+}
+
+.loginbox{
+    
+    text-align: center;
+    /* background-image: url(https://www.teahub.io/photos/full/69-699505_picsart-background-images-hd-full-hd-picsart-background.jpg);; */
+    border: 3px;
+    border-style: solid;
+
+    background-color: red;
+    margin-top: 70%;
+}
+.sign{
+    background:transparent;
+}
+.sign:hover{
+    background-color:black;
+    color: white;
+}
